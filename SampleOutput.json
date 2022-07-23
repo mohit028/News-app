@@ -1,0 +1,266 @@
+{
+  "status": "ok",
+  "totalResults": 70,
+  "articles": [
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Natasha Turak",
+      "title": "Turkey's annual inflation soars to almost 79% - CNBC",
+      "description": "Inflation in Turkey rose close to 79% last month, the highest the country has seen in almost a quarter of a century.",
+      "url": "https://www.cnbc.com/2022/07/04/turkeys-annual-inflation-soars-to-almost-79percent.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107045370-1649734379497-gettyimages-1056446430-cupolo-notitle181102_npyWM.jpeg?v=1649830133&w=1920&h=1080",
+      "publishedAt": "2022-07-04T08:03:12Z",
+      "content": "Inflation in Turkey rose close to 79% last month, the highest the country has seen in a quarter of a century.\r\nThe annual inflation rate was 78.62% for June, according to the Turkish Statistical Inst… [+398 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Silvia Amaro",
+      "title": "Americans hoping for European vacations this summer should prepare for one thing: chaos - CNBC",
+      "description": "Thousands of flights have been cancelled and recent travelers have queued for many hours at airports across Europe.",
+      "url": "https://www.cnbc.com/2022/07/04/eu-airlines-face-strikes-struggle-to-find-workers-post-covid-summer-travel.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107081020-1656333586642-gettyimages-1241543978-AA_26062022_779097.jpeg?v=1656333813&w=1920&h=1080",
+      "publishedAt": "2022-07-04T07:28:39Z",
+      "content": "Some airlines and airports are struggling with the post-covid demand for travel.\r\nLONDON Delays, cancellations and strikes. It's been a messy time for many European tourist hotspots as airlines and a… [+5724 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Evelyn Cheng",
+      "title": "Here are the China trends investors bet money on during a sluggish few months - CNBC",
+      "description": "Manufacturing, especially semiconductors, was the most popular sector for deals in China during the first half of the year, according to database Qimingpian.",
+      "url": "https://www.cnbc.com/2022/07/04/here-are-the-china-trends-investors-bet-money-on-so-far-in-2022.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107083581-1656652045024-gettyimages-1240559328-China_Manufacturing_Industry.jpeg?v=1656652139&w=1920&h=1080",
+      "publishedAt": "2022-07-04T05:36:45Z",
+      "content": "BEIJING By the numbers, manufacturing companies in China snagged the most investment deals in the first half of the year among 37 sectors tracked by business database Qimingpian.\r\nIn fact, the number… [+3279 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Elliot Smith, Holly Ellyatt",
+      "title": "European markets make positive start to the new trading week - CNBC",
+      "description": "European stocks climbed on Monday in what's expected to be a quieter day for global markets given the July Fourth holiday.",
+      "url": "https://www.cnbc.com/2022/07/04/european-markets-open-to-close-data-earnings.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106906952-16255820602021-07-05t025143z_72816390_rc21eo9f6yal_rtrmadp_0_usa-julyfourth.jpeg?v=1625582085&w=1920&h=1080",
+      "publishedAt": "2022-07-04T04:39:25Z",
+      "content": "LONDON European stocks climbed on Monday in what's expected to be a quieter day for global markets given the July Fourth holiday in the United States.The pan-European Stoxx 600 index added 0.6% by mi… [+1020 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Pensions & Investments"
+      },
+      "author": "https://www.facebook.com/*",
+      "title": "After Supreme Court's abortion ruling, BlackRock and other asset managers say they'll pay for travel - Pensions & Investments",
+      "description": "BlackRock, Fidelity and State Street have joined other firms in affirming that they would pay for employees' abortion-care travel expenses.",
+      "url": "https://www.pionline.com/money-management/after-supreme-courts-abortion-ruling-blackrock-and-other-asset-managers-say-theyll",
+      "urlToImage": "https://www.pionline.com/s3/files/styles/1200x630/public/Scotus%20Dobbs%20Night%20Protest.jpg",
+      "publishedAt": "2022-07-04T04:00:00Z",
+      "content": "Skip to main content"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Fox Business"
+      },
+      "author": "Lucas Manfredi",
+      "title": "Jobs report, consumer credit, Levi Strauss earnings top week ahead - Fox Business",
+      "description": "FOX Business takes a look at the upcoming events that are likely to move financial markets in the coming days.",
+      "url": "https://www.foxbusiness.com/markets/jobs-report-consumer-credit-levi-strauss-earnings-week-ahead",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2020/11/0/0/Wall-Street.jpg?ve=1&tl=1",
+      "publishedAt": "2022-07-04T02:35:00Z",
+      "content": "Investors will get a break on Monday as the New York Stock Exchange will be closed in observance of the Fourth of July holiday. While the upcoming week will be light for earnings, Wall Street will be… [+5150 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Theepochtimes.com"
+      },
+      "author": null,
+      "title": "Musk Breaks Silence on Twitter With Photo Alongside the Pope - The Epoch Times",
+      "description": "Elon Musk ended his unusual period of Twitter silence on July 1, reemerging with a picture of himself ...",
+      "url": "https://www.theepochtimes.com/musk-breaks-silence-on-twitter-with-photo-alongside-the-pope_4574490.html",
+      "urlToImage": "https://img.theepochtimes.com/assets/uploads/2022/05/1.tagreuters.com2022binary_LYNXNPEI4O0DR-FILEDIMAGE-1200x800.jpg",
+      "publishedAt": "2022-07-04T01:34:40Z",
+      "content": "Elon Musk ended his unusual period of Twitter silence on July 1, reemerging with a picture of himself meeting with Pope Francis.\r\nThe Tesla and SpaceX CEO is often active on the social media platform… [+2032 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KOMO News"
+      },
+      "author": "Jackie Kent, KOMO News reporter",
+      "title": "Travel at SeaTac Airport this holiday weekend has seen only a few bumps , travelers say - KOMO News",
+      "description": "Passengers at Sea-Tac Airport on Sunday reported some travel-related headaches but delays were fewer than a few months ago at Alaska Airlines.",
+      "url": "https://komonews.com/news/local/travel-at-seatac-airport-this-holiday-weekend-has-seen-only-a-few-bumps-travelers-say",
+      "urlToImage": "https://komonews.com/resources/media/360e79d7-b48b-463c-a63c-1aeefdb9517f-large16x9_thumb_72087.png?1656897305593",
+      "publishedAt": "2022-07-04T01:28:30Z",
+      "content": null
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "New York Times"
+      },
+      "author": "Natasha Singer",
+      "title": "Air Travelers Face Delays and Cancellations on July 4 Weekend - The New York Times",
+      "description": "Carriers were dealing with a combination of staff shortages and passenger volume that approached or in some cases exceeded prepandemic levels.",
+      "url": "https://www.nytimes.com/2022/07/03/business/july-4-weekend-air-travel.html",
+      "urlToImage": "https://static01.nyt.com/images/2022/07/03/multimedia/03airtravel-1/03airtravel-1-facebookJumbo.jpg",
+      "publishedAt": "2022-07-04T01:17:06Z",
+      "content": "I know many of you may have experienced disruptions, sometimes significant, in your travels as we build our operation back from the depths of 2020 while accommodating a record level of demand, Mr. Ba… [+1104 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Bitcoin.com"
+      },
+      "author": null,
+      "title": "Mad Money's Jim Cramer Says Crypto Immolation Shows the Fed's Job to Tame Inflation Is Almost Complete – Markets and Prices Bitcoin News - Bitcoin News",
+      "description": "Bitcoin News is the world's premier 24/7 news feed covering everything bitcoin-related, including world economy, exchange rates and money politics.",
+      "url": "https://news.bitcoin.com/mad-moneys-jim-cramer-says-crypto-immolation-the-feds-job-to-tame-inflation-is-almost-complete/",
+      "urlToImage": "https://news.bitcoin.com/wp-content/themes/BitcoinNews/images/news-thumbnail.png",
+      "publishedAt": "2022-07-04T00:33:06Z",
+      "content": "The host of Mad Money, Jim Cramer, claims that “With the immolation of crypto, the Fed’s job is almost complete.” He stressed that “one front in the war on inflation that’s been an outstanding total … [+3331 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Abigail Ng",
+      "title": "Asia-Pacific markets are mixed as investors search for direction - CNBC",
+      "description": "Australian stocks rose more than 1% while Hong Kong and South Korean markets were lower on Monday.",
+      "url": "https://www.cnbc.com/2022/07/04/asia-markets-stock-connect-bonds-currencies-and-oil.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/106740903-1602545473564-gettyimages-1228837690-365042807_1-9.jpeg?v=1656890709&w=1920&h=1080",
+      "publishedAt": "2022-07-03T23:41:56Z",
+      "content": "SINGAPORE Australian stocks rose more than 1% while Hong Kong and South Korean markets were lower on Monday ahead of Australia and Malaysia central bank decisions this week.\r\nThe S&amp;P/ASX 200 adva… [+2156 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "OilPrice.com"
+      },
+      "author": "Tsvetana Paraskova",
+      "title": "Saudis Unwilling To Upset Putin As Biden Begs For More Crude - OilPrice.com",
+      "description": "Saudi Arabia is maintaining its close ties with Russia while attempting to improve relations with the United States at the same time",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Saudis-Unwilling-To-Upset-Putin-As-Biden-Begs-For-More-Crude.html",
+      "urlToImage": "https://d32r1sh890xpii.cloudfront.net/article/718x300/2022-07-01_ug9m5fdejt.jpg",
+      "publishedAt": "2022-07-03T23:00:00Z",
+      "content": "The number of completed wells…\r\nCrude prices have fallen this…\r\nIndirect talks held in Qatar…\r\nBy Tsvetana Paraskova - Jul 03, 2022, 6:00 PM CDTThe world’s largest crude oil exporter, Saudi Arabia, c… [+4644 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": null,
+      "title": "Iran Slashes the Cost of Its Oil to Compete With Russia in China - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=dd576564-fb44-11ec-9c5e-5465716b624b&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNy0wMy9pcmFuLXNsYXNoZXMtdGhlLWNvc3Qtb2YtaXRzLW9pbC10by1jb21wZXRlLXdpdGgtcnVzc2lhLWluLWNoaW5h",
+      "urlToImage": null,
+      "publishedAt": "2022-07-03T21:00:00Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+      "source": {
+        "id": "financial-times",
+        "name": "Financial Times"
+      },
+      "author": "Olaf Storbeck, Martin Arnold, Owen Walker",
+      "title": "ECB to discuss blocking banks from multibillion-euro windfall as rates rise - Financial Times",
+      "description": "Governing council to discuss potential bonanza for lenders from ultra-cheap pandemic loans",
+      "url": "https://www.ft.com/content/5ce8f458-8a59-4789-820a-8c59ed67f416",
+      "urlToImage": "https://www.ft.com/__origami/service/image/v2/images/raw/https%3A%2F%2Fd1e00ek4ebabms.cloudfront.net%2Fproduction%2Fc099fa56-2ff4-407c-a6ee-9a5579c62e88.jpg?source=next-opengraph&fit=scale-down&width=900",
+      "publishedAt": "2022-07-03T20:00:28Z",
+      "content": "The European Central Bank is looking at ways to stop banks earning billions of euros of extra profit from the ultra-cheap lending scheme it launched during the pandemic once it starts to raise intere… [+4501 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "NBC New York"
+      },
+      "author": null,
+      "title": "Unattended Bag Prompts Evacuation at JFK Airport Terminal - NBC New York",
+      "description": "Amid one of the busiest travel weekends in the country, the largest terminal at New York’s John F. Kennedy Airport experienced a “security…",
+      "url": "https://www.nbcnewyork.com/news/local/unattended-bag-prompts-evacuation-at-jfk-airport-terminal/3760120/",
+      "urlToImage": "https://media.nbcnewyork.com/2022/07/jfk-evacuation.png?fit=954%2C536&quality=85&strip=all",
+      "publishedAt": "2022-07-03T19:46:22Z",
+      "content": "Amid one of the busiest travel weekends in the country, the largest terminal at New York's John F. Kennedy Airport experienced a \"security incident\" on Sunday that prompted a partial evacuation. \r\nTh… [+1040 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "WGHP FOX 8 Greensboro"
+      },
+      "author": "Nathaniel Rodriguez, Nexstar Media Wire",
+      "title": "Onions sold in 5 states recalled for possible listeria contamination - WGHP FOX8 Greensboro",
+      "description": "An onion producer announced Thursday that it was recalling certain whole onions that could have been contaminated with listeria.",
+      "url": "https://myfox8.com/news/onions-sold-in-5-states-recalled-for-possible-listeria-contamination/",
+      "urlToImage": "https://myfox8.com/wp-content/uploads/sites/17/2022/07/GettyImages-1264785709-1.jpg?w=1280",
+      "publishedAt": "2022-07-03T19:29:05Z",
+      "content": "TAMPA, Fla. (WFLA) A Georgia onion producer announced Thursday that it was recalling certain whole onions that could have been contaminated with listeria.\r\nA&amp;M Farms of Lyons, Georgia, said the L… [+1549 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Ramishah Maruf, CNN",
+      "title": "An FCC regulator wants TikTok removed from app stores. Here's how a company executive responded - CNN",
+      "description": "While TikTok's short-form videos are entertaining, that's \"just the sheep's clothing,\" a Federal Communications Commission official said, and the app should be removed from app stores because of security issues.",
+      "url": "https://www.cnn.com/2022/07/03/media/tiktok-reliable-sources/index.html",
+      "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220703123459-brendan-carr-rs-07-03-2022-super-tease.jpeg",
+      "publishedAt": "2022-07-03T19:10:00Z",
+      "content": "New York (CNN)While TikTok's short-form videos are entertaining, that's \"just the sheep's clothing,\" a Federal Communications Commission official said, and the app should be removed from app stores b… [+3369 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TechSpot"
+      },
+      "author": "Jimmy Pezzone",
+      "title": "Zuckerberg to Meta staff \"there are probably a bunch of people at the company that shouldn't be here\" - TechSpot",
+      "description": "During the session, Zuckerberg bluntly told the Meta workforce that ...some of you might decide this isn't the place for you, and that self-selection is OK with...",
+      "url": "https://www.techspot.com/news/95168-zuckerberg-meta-staff-there-probably-bunch-people-company.html",
+      "urlToImage": "https://static.techspot.com/images2/news/bigimage/2022/07/2022-07-03-image-4.jpg",
+      "publishedAt": "2022-07-03T17:58:48Z",
+      "content": "Recap: It's been a tough year for Meta. The tech giant has faced plummeting stocks, hiring freezes, large-scale turnover, and a failed venture into the cryptocurrency space. In a recent Q&amp;A with … [+2195 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Yahoo Entertainment"
+      },
+      "author": "Erin Prater",
+      "title": "Biden administration weighs extraordinary action to make your mortgage cheaper - Yahoo Finance",
+      "description": "The Biden administration may trim mortgage costs for new and low-income homebuyers in a move to make homebuying more accessible.",
+      "url": "https://finance.yahoo.com/news/biden-administration-weighs-extraordinary-action-175434356.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/OG_JHLrhKUYvJkheTqa4iA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/uu/api/res/1.2/AFSgbLhyVoGUMx.trH00UQ--~B/aD01NDY0O3c9ODE5MjthcHBpZD15dGFjaHlvbg--/https://media.zenfs.com/en/fortune_175/c70a73bd03044a9d871fdd4f2f071a6e",
+      "publishedAt": "2022-07-03T17:54:34Z",
+      "content": "The Biden administration may trim mortgage costs for new and low-income homebuyers in a move to make homebuying more accessible, The Wall Street Journalreports.\r\nIndustry officials are asking the Fed… [+1030 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Tribune India"
+      },
+      "author": "The Tribune India",
+      "title": "On Air India recruitment day, 55% IndiGo domestic flights delayed as crew called in 'sick' - The Tribune India",
+      "description": "Fifty-five per cent of IndiGo's domestic flights were delayed on Saturday as a significant number of cabin crew members took sick leave, with sources in the industry saying they ostensibly went for an Air India recruitment drive.",
+      "url": "https://www.tribuneindia.com/news/nation/on-air-india-recruitment-day-55-indigo-domestic-flights-delayed-as-crew-called-in-sick-409135",
+      "urlToImage": "https://englishtribuneimages.blob.core.windows.net/gallary-content/2022/7/2022_7$largeimg_1579830206.jpg",
+      "publishedAt": "2022-07-03T17:51:00Z",
+      "content": "PTI\r\nNew Delhi, July 3\r\nFifty-five per cent of IndiGo's domestic flights were delayed on Saturday as a significant number of cabin crew members took sick leave, with sources in the industry saying th… [+1132 chars]"
+    }
+  ]
+}
